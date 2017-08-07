@@ -3,10 +3,10 @@ At time 1371.172
 - Rotation: in Quaternion [0,0,0.636,0.772]
             in RPY [0,0,-1.378]
 At time 1372.172
-- Translation: [-0.530,-0.100,0.0]
-- Rotation: in Quaternion [0,0,0.544,0.780]
-            in RPY [0,0,-1.380]
+- Translation: [-0.540,-0.022,0.0]
+- Rotation: in Quaternion [0,0,0.535,0.772]
+            in RPY [0,0,-1.378]
 At time 1373.172
-- Translation: [-1.300,-0.800,0.0]
-- Rotation: in Quaternion [0,0,0.234,0.965]
-            in RPY [0,0,-1.366]
+- Translation: [-1.02,-0.79,0.0]
+- Rotation: in Quaternion [0,0,0.236,0.972]
+            in RPY [0,0,-1.378]

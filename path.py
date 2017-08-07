@@ -1,4 +1,5 @@
 from numpy import array
+import numpy as np
 import re
 
 p = re.compile('.* (\[[0-9.,\-]+\]|([\-0-9]+\.[0-9]+))')
@@ -21,6 +22,9 @@ class Path(object):
 
     def z(self):
         return self._translation_list[:, 2]
+
+    def xy(self):
+        return np.column_stack((self._translation_list[:, 0], self._translation_list[:, 1]))
 
     def color(self):
         return self._color
